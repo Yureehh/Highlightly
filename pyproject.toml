@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "highlightly"
-version = "0.1.0"
+version = "0.1.1"
 description = "Automatic clips generation"
 authors = ["yureehh <fabbri.juri@gmail.com>"]
 license = "Apache"
